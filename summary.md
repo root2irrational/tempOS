@@ -5,7 +5,7 @@ This is a personal project that I decided to do after COMP3891 Extended Operatin
 2. Learn C++
 3. Read Tannebaum Structured Computer Organisation
 
-Progress in tempOS will be made throughout each learning stages 1,2,3. In general, the project involves researching on the exisiting computer hardware and operating system implementations. Then we outline and implement the most important parts and possibly propose modifications.
+Progress in tempOS will be made throughout each learning stages 1,2,3. In general, the project involves researching on the exisiting computer hardware and operating system implementations. Then we document and implement the architecture and OS, possibly using modifications of existing architectures and OS'es.
 
 ## Learning Progress
 Tannebaum Modern OS. Prepping for Finals.
